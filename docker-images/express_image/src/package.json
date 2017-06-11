@@ -1,0 +1,15 @@
+{
+  "name": "partie2",
+  "version": "0.1.0",
+  "description": "test for part 2",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Wojciech Myszkorowski",
+  "license": "ISC",
+  "dependencies": {
+    "chance": "^1.0.8",
+    "express": "^4.15.3"
+  }
+}
